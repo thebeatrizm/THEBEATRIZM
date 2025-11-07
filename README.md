@@ -9,7 +9,7 @@ ___
 ### Minhas habilidades e Projetos pessoais
 Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente:
 
-🌟 ### Desenvolvimento:
+ ### Desenvolvimento:
 **Linguagens em Projeto:** C# (C Sharp) 
 **WEB:** HTML5, CSS
 **Banco de dados:** SQL server
