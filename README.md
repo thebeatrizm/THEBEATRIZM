@@ -1,9 +1,9 @@
 ## Olá, me chamo Beatriz! Bem vinda (o) ao meu GithHube 👋 🎃
 
-### 🌟 Sobre Seugrança e Desenvolvimento
+### 🌟 Sobre Segurança e Desenvolvimento
 
 Sou apaixonada por **Segurança da informação** e estou em uma jornada contínua para desenvolver sistemas robustos e aprimorar minhas habilidades
-Acredito que a segurança é o pilar de toda tecnologia
+Acredito que a segurança é o pilar de toda tecnologia. 🌏
 
 ___
 ### Minhas tecnologias e Estudos
