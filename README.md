@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, me chamo Beatriz! Bem vinda (o) ao meu GithHube 👋 🎃
 
-<!--
-**thebeatrizm/THEBEATRIZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Sobre Seugrança e Desenvolvimento
 
-Here are some ideas to get you started:
+Sou apaixonada por **Segurança da informação** e estou em uma jornada contínua para desenvolver sistemas robustos e aprimorar minhas habilidades
+Acredito que a segurança é o pilar de toda tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+### Minhas tecnologias e Estudos
+Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente:
+🌟 ## _Desenvolvimento_
+ **Linguagens:** C# (C Sharp) 
+ **WEB:** HTML5, CSS
+ **Banco de dados:** SQL server
+
+ ### ☠️ Cybersecurity e Análise:
+ **Linguagem de Estudos:** Pyhton (foco em scripts de segurança)
+ **Áreas de Focos:** Pentesting e Análise de vulnerabilidades de sistemas
+
+ ___
+
+ ## **Estou super animada para aplicar meus conhecimentos em _DESENVOLVIMENTO_ (C#, HTML/CSS) e _Segurança da Informação_ em um ambiente prático! Busco um estágio onde eu possa aprender, crescer e trazer minha paixão por tecnologia para a equipe** 💞
