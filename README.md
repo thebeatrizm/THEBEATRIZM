@@ -8,12 +8,13 @@ Acredito que a segurança é o pilar de toda tecnologia. 🌏
 ___
 ### Minhas tecnologias e Estudos
 Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente:
-🌟 ## _Desenvolvimento_
+
+🌟  _Desenvolvimento_
  **Linguagens:** C# (C Sharp) 
  **WEB:** HTML5, CSS
  **Banco de dados:** SQL server
 
- ### ☠️ Cybersecurity e Análise:
+ ☠️ Cybersecurity e Análise:
  **Linguagem de Estudos:** Pyhton (foco em scripts de segurança)
  **Áreas de Focos:** Pentesting e Análise de vulnerabilidades de sistemas
 
