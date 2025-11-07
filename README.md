@@ -9,7 +9,7 @@ ___
 ### Minhas tecnologias e Estudos
 Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente:
 
-🌟 ## _Desenvolvimento_
+🌟 ## 
 
  **Linguagens:** C# (C Sharp) 
  **WEB:** HTML5, CSS
