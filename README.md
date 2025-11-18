@@ -22,4 +22,9 @@ Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente
  ___
 
  ### RESUMO SOBRE MIM 🎆
- **Estou super animada para aplicar meus conhecimentos em _DESENVOLVIMENTO_ (C#, HTML/CSS) e _Segurança da Informação_ em um ambiente prático! Busco um estágio onde eu possa aprender, crescer e trazer minha paixão por tecnologia para a equipe** 💞
+ ### 🎆 Resumo Sobre Mim
+Sou movida pela curiosidade e pela vontade de aprender.  
+Gosto de explorar novas áreas, unir **desenvolvimento** e **segurança da informação**, e transformar ideias em projetos práticos.  
+Minha jornada é marcada por evolução constante e pela busca de desafios que me façam crescer 🚀.
+![Theodore GIF](https://media.tenor.com/2vQkzjvYwqAAAAAC/theodore-alvin-and-the-chipmunks.gif)
+
