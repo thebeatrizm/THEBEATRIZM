@@ -26,6 +26,6 @@ Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente
 Sou movida pela curiosidade e pela vontade de aprender.  
 Gosto de explorar novas áreas, unir **desenvolvimento** e **segurança da informação**, e transformar ideias em projetos práticos.  
 Minha jornada é marcada por evolução constante e pela busca de desafios que me façam crescer 🚀.
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdzMW15cGN6YnNjdjU2eXQzYzJuZjV5cTFkencwZnA0OHQ5NjBvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK2ycTwi0rSUaOCa05/giphy.gif
+![Modo hacker ativado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRudnlxc2kzNXJiYmFreXN0eDExaWg5ZTJhbnI5NGE5cGw0bGtqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQz4V9m3gXsx3QpDWM/giphy.gif)
 
 
