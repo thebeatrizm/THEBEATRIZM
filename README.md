@@ -26,5 +26,6 @@ Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente
 Sou movida pela curiosidade e pela vontade de aprender.  
 Gosto de explorar novas áreas, unir **desenvolvimento** e **segurança da informação**, e transformar ideias em projetos práticos.  
 Minha jornada é marcada por evolução constante e pela busca de desafios que me façam crescer 🚀.
-![Theodore GIF](https://media.tenor.com/2vQkzjvYwqAAAAAC/theodore-alvin-and-the-chipmunks.gif)
+![Bunny GIF](https://tenor.com/view/bunny-cute-spin-spinning-rabbit-gif-16925408)
+
 
