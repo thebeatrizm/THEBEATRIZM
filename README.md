@@ -1,4 +1,4 @@
-## Olá, me chamo Beatriz! Bem vinda (o) ao meu GithHube 👋 🎃
+## Olá, me chamo Beatriz! Bem vindo (a) ao meu GithHube 👋 🎃
 
 ### 🌟 Sobre Segurança e Desenvolvimento
 
