@@ -6,7 +6,7 @@ Sou apaixonada por **Segurança da informação** e estou em uma jornada contín
 Acredito que a segurança é o pilar de toda tecnologia, mas adoro **Codificar e construir** soluções. 🌏
 
 ___
-### Minhas habilidades e Projetos pessoais
+### 👩‍💻 Minhas habilidades e Projetos pessoais
 Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente:
 
  ### Desenvolvimento:
@@ -15,7 +15,7 @@ Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente
 **Banco de dados:** SQL server
 **Projetos pessoais, desenvolvidos para aplicação prática.**
 
- ### ☠️ Cybersecurity e Análise:
+ ### 🔐 Cybersecurity e Análise:
  **Linguagem de Estudos:** Pyhton (foco em scripts de segurança)
  **Áreas de Focos:** Pentesting e Análise de vulnerabilidades de sistemas
 
