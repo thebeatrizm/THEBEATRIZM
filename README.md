@@ -1,31 +1,65 @@
-## Olá, me chamo Beatriz! Bem vindo (a) ao meu GithHube 👋 🎃
+# 👩‍💻 Olá, eu sou a Beatriz!
 
-### 🌟 Sobre Segurança e Desenvolvimento
+🎯 Apaixonada por **Segurança da Informação**, **Desenvolvimento Web** e desafios que me fazem crescer.  
+🚀 Em busca de oportunidades para aplicar meus conhecimentos e evoluir profissionalmente.  
+💡 Curiosa, autodidata e sempre explorando novas tecnologias.
 
-Sou apaixonada por **Segurança da informação** e estou em uma jornada contínua para desenvolver sistemas robustos e aprimorar minhas habilidades
-Acredito que a segurança é o pilar de toda tecnologia, mas adoro **Codificar e construir** soluções. 🌏
+---
 
-___
-### 👩‍💻 Minhas habilidades e Projetos pessoais
-Aqui estão as áreas e ferramentas que estou explorando e utilizando atualmente:
+## 🛠️ Tecnologias que uso :
 
- ### Desenvolvimento:
-**Linguagens em Projeto:** C# (C Sharp) 
-**WEB:** HTML5, CSS
-**Banco de dados:** SQL server
-**Projetos pessoais, desenvolvidos para aplicação prática.**
+**Linguagens de Programação:**
+- Python 🐍
+- C# (Windows Forms) 💻
+- JavaScript 🌐
 
- ### 🔐 Cybersecurity e Análise:
- **Linguagem de Estudos:** Pyhton (foco em scripts de segurança)
- **Áreas de Focos:** Pentesting e Análise de vulnerabilidades de sistemas
+**Desenvolvimento Web:**
+- HTML, CSS, JavaScript
 
- ___
+**Banco de Dados:**
+- SQL Server
 
- ### RESUMO SOBRE MIM 🎆
- ### 🎆 Resumo Sobre Mim
-Sou movida pela curiosidade e pela vontade de aprender.  
-Gosto de explorar novas áreas, unir **desenvolvimento** e **segurança da informação**, e transformar ideias em projetos práticos.  
-Minha jornada é marcada por evolução constante e pela busca de desafios que me façam crescer 🚀.
-![Modo hacker ativado](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRudnlxc2kzNXJiYmFreXN0eDExaWg5ZTJhbnI5NGE5cGw0bGtqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQz4V9m3gXsx3QpDWM/giphy.gif)
+**Scripting para automação:**
+- Bash 🐧
+- PowerShell ⚡
 
+**Cibersegurança:**
+- Pentest básico
+- Análise de vulnerabilidades
+- Análise de riscos
+
+---
+
+## 📁 Projetos Pessoais
+
+Em breve, estarei organizando meus projetos em pastas com README individuais. Fique de olho!
+
+---
+
+## ## 🔐 Segurança da Informação
+Tenho conhecimento com ferramentas e práticas de análise de rede e sistemas:
+
+- Nmap: varredura de portas, serviços e sistemas operacionais
+- Bash & PowerShell: automação de tarefas de segurança
+- Pentesting e análise de vulnerabilidades
+
+![Modo hacker ativado](https://media3.giphy.com/media/NQz4V9m3gXsx3QpDWM/giphy.gif)
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/beatriz-m-a11758263?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- 📧 beatrizz16k@gmail.com
+- 🐙 [GitHub](https://github.com/thebeatrizm)
+
+---
+
+## ✨ Curiosidade
+
+> “Minha jornada na área começou a partir de uma busca por desafios que me fazem crescer 🚀.”
+
+![GIF divertido sobre tecnologia](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJlMHBqZ2VjcTk2bzlidnRkYjdwYnU1dzN1YXRka3N2N253eDJtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zHO316FmyqmZi/giphy.gif)
+
+---
 
