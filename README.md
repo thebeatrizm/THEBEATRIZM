@@ -59,7 +59,5 @@ Tenho conhecimento com ferramentas e práticas de análise de rede e sistemas:
 
 > “Minha jornada na área começou a partir de uma busca por desafios que me fazem crescer 🚀.”
 
-![GIF divertido sobre tecnologia](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJlMHBqZ2VjcTk2bzlidnRkYjdwYnU1dzN1YXRka3N2N253eDJtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zHO316FmyqmZi/giphy.gif)
-
 ---
 
